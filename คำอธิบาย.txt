@@ -1,0 +1,42 @@
+
+<Head>
+<Title>CSElectronicsShop.com</Title>
+</Head>
+คือการกำหนดชื่อให้ title เป็นCSElectronicsShop.com
+
+
+<center><Body>
+<img src="website/logo.png">
+<hr>
+คือการใส่รูปภาพไว้ตรงกลางของเว็บไซต์
+
+
+<a href="http:th.mouser.com">HOME </a> |<a href="http:th.mouser.com/Help/Help.aspx"> SERVICES </a>|<a href="http:th.mouser.com/Electronic-Components/"> PRODUCT </a>|<a href="http:th.mouser.com/aboutus"> ABOUT US </a>
+<hr>
+คือการกำหนด Hyper Link แล้วเชื่อมโยงไปยังเว็บไซต์นั้นๆ
+
+<marquee><h4>Welcome To My Website ^^</h4></marquee>
+คือการป้อนข้อความแนะนำเว็บไซต์ โดยข้อความจะขยับเคลื่อนที่จากขวามาซ้าย
+
+
+<img src="website/pic1.png" width="300" height"180">
+<img src="website/pic2.png" width="300" height"180">
+<img src="website/pic3.png" width="300" height"180">
+<img src="website/pic4.png" width="300" height"180"><br><br>
+<img src="website/pic5.png" width="300" height"180">
+<img src="website/pic6.png" width="300" height"180">
+<img src="website/pic7.png" width="300" height"180">
+<img src="website/pic8.png" width="300" height"180"><br><br>
+คือการใส่รูปสินค้าอิเล็กทรอนิกส์จำนวน 8 รูป ที่เก็บไว้ใน Folder "website"
+
+&nbsp; <br>
+&nbsp; <br>
+&nbsp; <br>
+&nbsp; <br>
+&nbsp; <br>
+&nbsp; <br>
+<hr>
+Tanapong Leksut PNRU 2017 CS57: CSEShop.COM
+<hr>
+คือการเว้นบรรทัด 6 บรรทัด แล้วแสดงข้อความ Tanapong Leksut PNRU 2017 CS57: CSEShop.COM
+	
